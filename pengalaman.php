@@ -10,9 +10,9 @@
 	<table width="518" height="318" border="0" align="center">
       <tr>
         <td>
-          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px"> cerita saat herei dengan teman2 di batara kami terinvirasi untuk membuat sebuah keterampilan di bidangnya dengan membuatsebuah website yang ala kandarnya</p>
-          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">ketika melihat sebuah gugulayunan dan sebuah tangkal yang sukar di taeki olleh barudak batara haha &quot;ehh,, terinvirasi&quot; lalu saya betaya pada barudak arek wang ngieun website &quot;, kumaha carana,, &quot;. </p>
-          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">sakiw jawab aya w,,</p>
+          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px"> cerita saat herey dengan teman-teman di batara arurang terinvirasi untuk membuat sebuah keterampilan di bidangnya dengan membuat sebuah website nu ala kadarnya</p>
+          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">ketika nenjo sebuah gugulayunan dan sebuah tangkalkersen yang sukar di taeki olleh barudak batara haha &quot;ehh,, terinvirasi&quot; lalu saya bertanya pada barudak arek wang bikin website &quot;, kumaha carana,, &quot;. </p>
+          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">sakiw jawab aya we ala a ipid,,</p>
           <p>&nbsp;</p></td>
       </tr>
     </table></td>
